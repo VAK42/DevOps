@@ -1,0 +1,12 @@
+- Nginx
+- Kafka
+- RabbitMQ
+- Redis
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+- Jenkins
+- Prometheus
+- Grafana
+- ELK
